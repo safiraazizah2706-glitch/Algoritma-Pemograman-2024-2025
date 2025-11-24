@@ -1,8 +1,8 @@
 public class Boolean {
-    publik static void main(string[] args) {
-        boolean apakahdosenalprokeren = true;
-        boolean apakah dosenalprojelek = false;
-        System.out,println(apakahdosenalprokeren);
-        System.out,println(apakahdosenalprojelek);
+    public static void main(String[] args) {
+        boolean apakahDosenAlproKeren = true;
+        boolean apakahDosenAlproJelek = false;
+        System.out.println(apakahDosenAlproKeren) ;
+        System.out.println(apakahDosenAlproKeren) ;
     }
 }

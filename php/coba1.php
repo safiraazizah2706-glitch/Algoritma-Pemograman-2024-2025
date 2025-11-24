@@ -2,16 +2,17 @@
 $nim = "I.110186";
 $nama = 'Muhammad Encep';
 $umur = 35;
-$nilai = 92.75
+$nilai = 92.75;
 $status = TRUE;
 
-echo "NIM :". $nim ."<br>";
-echo "Nama : $nama<br>";
-print "Umur : ". $umur;
+echo "NIM   : " . $nim . "<br>";
+echo "Nama  : $nama<br>";
+print "Umur  : " . $umur;
 print "<br>";
-printf("Nilai : %.3f<br>,$nilai);
+printf("Nilai : %.3f<br>", $nilai);
+
 if ($status)
-    echo "status : Aktif";
+  echo "Status : Aktif";
 else
-    echo "Status : Tidak Aktif";
+  echo "Status : Tidak Aktif";
 ?>

@@ -1,6 +1,6 @@
-class local {
-    publik static void main(string args[]) {
+public class Local {
+    public static void main(String args[]) {
         int age = 36; // local variable
-        System.out.println("umur Muhammad Encep : " + age);
+        System.out.println("Umur Muhammad Encep : " + age);
     }
 }

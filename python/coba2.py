@@ -1,4 +1,4 @@
-# Menginput Nilai Tugas, UTS, dan UAS
+ # Menginput Nilai Tugas, UTS, dan UAS
 tugas = float(input("Input nilai Tugas: "))
 uts = float(input("Input nilai UTS: "))
 uas = float(input("Input nilai UAS: "))

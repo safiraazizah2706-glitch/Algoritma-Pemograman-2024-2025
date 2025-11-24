@@ -1,6 +1,6 @@
 print('---Belajar Tipe Data---')
 
-#tipe data integers x = 5
+#Tipe data integers x = 5
 y = 3
 z = 5 + 3
 print(z)
@@ -31,7 +31,7 @@ a = True
 b = False
 
 # Contoh penulisan boolean yang salah
-# jika di jalankan, pada baris ini akan eror
+# Jika di jalankan, pada baris ini akan error
 c = a
 
 print(c)

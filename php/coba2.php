@@ -1,6 +1,6 @@
 <?php
 $gaji = 8000000;
-$pajak = 0,1;
+$pajak = 0.1;
 $thp = $gaji - ($gaji * $pajak);
 
 
